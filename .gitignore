@@ -1,0 +1,15 @@
+# Ignore dataset folders
+covid_binary/
+COVID-19_Radiography_Dataset/
+
+# Ignore model files
+*.keras
+
+# Ignore Kaggle API
+kaggle.json
+
+# Ignore zip files
+*.zip
+
+# Colab checkpoints
+.ipynb_checkpoints/
